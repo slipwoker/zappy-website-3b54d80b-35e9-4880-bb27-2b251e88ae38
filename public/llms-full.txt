@@ -2,13 +2,13 @@
 
 A nature reserve recommendation website that helps users discover the best natural parks and reserves based on their current location and group size. The platform provides detailed practical information for each recommended site including opening hours, entrance fees, and child-friendliness indicators — making it a comprehensive trip-planning tool for families and nature lovers alike.
 
-Source: https://-3b54d80b.zappy5.app
+Source: https://example.com
 
 ---
 
 ## גלו את שמורות הטבע הקרובות אליכם — הכי בשבילך🏕️
 
-URL: https://-3b54d80b.zappy5.app
+URL: https://example.com
 Description: מחפשים טיול מושלם? באתר תמצאו שמורות טבע מומלצות לפי מיקום וגודל קבוצה. בדקו שעות פתיחה וסגירה, דמי כניסה והתאמה לילדים ותכננו את הבילוי המשפחתי המושלם בקלות!
 
 גלו את שמורות הטבע הקרובות אליכם — הכי בשבילך🏕️
@@ -634,7 +634,7 @@ Description: מחפשים טיול מושלם? באתר תמצאו שמורות 
 
 ## השמורות ששמרתם מחכות לכם — הכי בשבילך🏕️
 
-URL: https://-3b54d80b.zappy5.app/recommendations
+URL: https://example.com/recommendations
 Description: כל ההמלצות שאספתם במקום אחד! חזרו לשמורות הטבע השמורות שלכם, בדקו שוב שעות פתיחה וסגירה, וודאו התאמה לילדים, וצאו להרפתקה משפחתית מתוכננת לפרטי פרטים.
 
 השמורות ששמרתם מחכות לכם — הכי בשבילך🏕️
@@ -1299,7 +1299,7 @@ Description: כל ההמלצות שאספתם במקום אחד! חזרו לשמ
 
 ## כך תמצאו טיול טבע מושלם בשלושה צעדים — הכי בשבילך🏕️
 
-URL: https://-3b54d80b.zappy5.app/how-it-works
+URL: https://example.com/how-it-works
 Description: איך מאתרים את שמורת הטבע האידיאלית עבורכם? גלו את השיטה הפשוטה: הזינו מיקום וגודל קבוצה, קבלו המלצות מותאמות אישית הכוללות שעות פתיחה וסגירה, וצאו לדרך עם כל המידע הנחוץ לטיול משפחתי מוצלח.
 
 כך תמצאו טיול טבע מושלם בשלושה צעדים — הכי בשבילך🏕️
@@ -1750,7 +1750,7 @@ Description: איך מאתרים את שמורת הטבע האידיאלית ע�
 
 ## הסיפור מאחורי אהבת הטבע שלנו — הכי בשבילך🏕️
 
-URL: https://-3b54d80b.zappy5.app/about
+URL: https://example.com/about
 Description: אנחנו כאן כדי לחבר אתכם לטבע הישראלי. הכירו את הצוות שמאחורי ההמלצות, המחויבות שלנו לדיוק בשעות פתיחה וסגירה, והתשוקה להנגיש שמורות טבע מומלצות לילדים ולכל המשפחה — בקלות ובאהבה.
 
 הסיפור מאחורי אהבת הטבע שלנו — הכי בשבילך🏕️
@@ -2074,7 +2074,7 @@ Description: אנחנו כאן כדי לחבר אתכם לטבע הישראלי.
 
 ## יש לכם שאלה על שמורה? דברו איתנו — הכי בשבילך🏕️
 
-URL: https://-3b54d80b.zappy5.app/contact
+URL: https://example.com/contact
 Description: צריכים עזרה בתכנון הטיול? רוצים לדווח על שעות פתיחה וסגירה מעודכנות? צרו קשר בקלות! אנחנו זמינים לענות על כל שאלה ולשמוע את חוויותיכם משמורות הטבע המומלצות לילדים ולמשפחות.
 
 יש לכם שאלה על שמורה? דברו איתנו — הכי בשבילך🏕️
@@ -2445,7 +2445,7 @@ Description: צריכים עזרה בתכנון הטיול? רוצים לדוו�
 
 ## מדיניות פרטיות
 
-URL: https://-3b54d80b.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -2708,7 +2708,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 ## הצהרת נגישות
 
-URL: https://-3b54d80b.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -2980,7 +2980,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 ## תנאי שימוש
 
-URL: https://-3b54d80b.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
@@ -3271,7 +3271,7 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 ## תודה שפנית אלינו
 
-URL: https://-3b54d80b.zappy5.app/thank-you
+URL: https://example.com/thank-you
 Description: הכי בשבילך🏕️ - תודה שפנית אלינו
 
 תודה שפנית אלינו
