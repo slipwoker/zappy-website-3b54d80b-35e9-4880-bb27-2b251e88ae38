@@ -1,0 +1,87 @@
+# הכי בשבילך🏕️ — Generative Engine Optimization Map
+
+> A nature reserve recommendation website that helps users discover the best natural parks and reserves based on their current location and group size. The platform provides detailed practical information for each recommended site including opening hours, entrance fees, and child-friendliness indicators — making it a comprehensive trip-planning tool for families and nature lovers alike.
+
+---
+
+## Pages
+
+### דף הבית
+https://-3b54d80b.zappy5.app
+מחפשים טיול מושלם? באתר תמצאו שמורות טבע מומלצות לפי מיקום וגודל קבוצה. בדקו שעות פתיחה וסגירה, דמי כניסה והתאמה לילדים ותכננו את הבילוי המשפחתי המושלם בקלות!
+
+### המלצות שמורות
+https://-3b54d80b.zappy5.app/recommendations
+כל ההמלצות שאספתם במקום אחד! חזרו לשמורות הטבע השמורות שלכם, בדקו שוב שעות פתיחה וסגירה, וודאו התאמה לילדים, וצאו להרפתקה משפחתית מתוכננת לפרטי פרטים.
+
+### איך זה עובד
+https://-3b54d80b.zappy5.app/how-it-works
+איך מאתרים את שמורת הטבע האידיאלית עבורכם? גלו את השיטה הפשוטה: הזינו מיקום וגודל קבוצה, קבלו המלצות מותאמות אישית הכוללות שעות פתיחה וסגירה, וצאו לדרך עם כל המידע הנחוץ לטיול משפחתי מוצלח.
+
+### אודות
+https://-3b54d80b.zappy5.app/about
+אנחנו כאן כדי לחבר אתכם לטבע הישראלי. הכירו את הצוות שמאחורי ההמלצות, המחויבות שלנו לדיוק בשעות פתיחה וסגירה, והתשוקה להנגיש שמורות טבע מומלצות לילדים ולכל המשפחה — בקלות ובאהבה.
+
+### צור קשר
+https://-3b54d80b.zappy5.app/contact
+צריכים עזרה בתכנון הטיול? רוצים לדווח על שעות פתיחה וסגירה מעודכנות? צרו קשר בקלות! אנחנו זמינים לענות על כל שאלה ולשמוע את חוויותיכם משמורות הטבע המומלצות לילדים ולמשפחות.
+
+### תודה שפנית אלינו
+https://-3b54d80b.zappy5.app/thank-you
+הכי בשבילך🏕️ - תודה שפנית אלינו
+
+## Legal & Policy
+
+### Privacy Policy
+https://-3b54d80b.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-3b54d80b.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-3b54d80b.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-3b54d80b.zappy5.app/contact
+- Endpoint: https://-3b54d80b.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About הכי בשבילך🏕️
+A nature reserve recommendation website that helps users discover the best natural parks and reserves based on their current location and group size. The platform provides detailed practical information for each recommended site including opening hours, entrance fees, and child-friendliness indicators — making it a comprehensive trip-planning tool for families and nature lovers alike.
+
+## Target Audience
+- מטיילים, משפחות עם ילדים, אנשים שאוהבים טבע
+- חובבי טבע
+- משפחות עם ילדים
+- הרפתקנים מקומיים
+
+## Industry
+Travel & Nature Tourism
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-3b54d80b.zappy5.app/sitemap.xml
+- Robots: https://-3b54d80b.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-3b54d80b.zappy5.app/llms-full.txt
